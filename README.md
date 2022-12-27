@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
 
-https://vercel.com/matheusarauj0o/jogo-palavra-secreta
+https://jogo-palavra-secreta-two.vercel.app/
 
 <hr>
 
